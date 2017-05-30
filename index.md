@@ -1,4 +1,4 @@
-<head><title>{{ page.title }}</title></head>
+<title>{{ page.title }}</title>
 
 ## Зараз сайт знаходзіцца ў распрацоўцы
 
