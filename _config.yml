@@ -3,10 +3,6 @@ name: Царква
 description: Сайт у распрацоўцы
 
 theme: jekyll-theme-minimal
-
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   
   footer-links:
   dribbble:
