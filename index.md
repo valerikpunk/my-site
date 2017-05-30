@@ -1,4 +1,7 @@
-<title>{{ page.title }}</title>
+---
+layout: post
+title: Hello
+---
 
 ## Зараз сайт знаходзіцца ў распрацоўцы
 
