@@ -1,5 +1,7 @@
-name: Царква
-
-description: Сайт у распрацоўцы
-
+title: Царква
+author: Сайт у распрацоўцы
+description: "Сайт у распрацоўцы"
+markdown: kramdown
+highlighter: pygments # highlight
+paginate: 5  # how many post can seen in the main page
 theme: jekyll-theme-minimal
